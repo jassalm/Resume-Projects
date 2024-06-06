@@ -1,4 +1,4 @@
- # Тема проекта: анализ data-related вакансий (аналитики, инженеры), а также вакансии программистов в России на основе данных с сайта hh.ru. 
+## Проект "Анализ ваканский на hh.ru по трем ключевым направлениям IT: Data. Frontend, Backend
 
 ## Цель проекта:
 Проект направлен на анализ данных о заработных платах. Основная цель – выявить текущие тенденции на рынке труда, определить средний уровень заработной платы для различных позиций, а также изучить зависимости заработных плат от различных факторов (например, опыта работы, места расположения, требуемых навыков и технологий).
@@ -9,21 +9,21 @@
 
 > Сбор данных о вакансиях с сайта [hh.ru](https://hh.ru/) для data-related специальностей (data scientist, data analyst, data engineer и т.д.) и программистов (backend, frontend, fullstack, mobile development и т.д.).
 
-Сначала мы [спарсили ссылки на вакансии с API hh.ru](https://github.com/Aurumlin/Personal_repository/blob/main/API%20parsing.ipynb). Данные сложили в [файл](https://github.com/Aurumlin/Personal_repository/blob/main/Parsed%20data/from_api.xls). Внутри - названия, некоторые даные и ссылки на страницы вакансий. 
+Сначала мы [спарсили ссылки на вакансии с API hh.ru](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/API%20parsing.ipynb). Данные сложили в [файл](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/Parsed%20data/from_api.xls). Внутри - названия, некоторые даные и ссылки на страницы вакансий. 
 
-Далее мы проитерировались по ссылкам и достали больше данных с страниц, вот наш [парсер](https://github.com/Aurumlin/Personal_repository/blob/main/Parser.ipynb). Данные сохранили в [файлик](https://github.com/Aurumlin/Personal_repository/blob/main/Parsed%20data/for_cleaning2.xls).
+Далее мы проитерировались по ссылкам и достали больше данных с страниц, вот наш [парсер](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/Parser.ipynb). Данные сохранили в [файлик](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/Parsed%20data/for_cleaning2.xls).
 
 
 ### Очистка данных:
 
-Cделали очистку данных [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/Data_cleaner.ipynb). Сохранили данные в [файл](https://github.com/Aurumlin/Personal_repository/blob/main/Parsed%20data/final.xls)
+Cделали очистку данных [здесь](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/Data_cleaner.ipynb). Сохранили данные в [файл](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/Parsed%20data/super_final.xls)
 []()
 
-Дополнительно мы сохранили закодированные данные о вакансиях в [файл](https://github.com/Aurumlin/Personal_repository/blob/main/Parsed%20data/role_decoder.csv)
+Дополнительно мы сохранили закодированные данные о вакансиях в [файл](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/Parsed%20data/role_decoder.csv)
 
 ### Предобработка данных, визуализация и новые признаки
 
-Сделали предобработку и визуализации [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/EDA_project%20(2).ipynb).
+Сделали предобработку и визуализации [здесь](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/EDA_project%20(2).ipynb).
 
 
 
@@ -39,9 +39,7 @@ Cделали очистку данных [здесь](https://github.com/Auruml
 
 ### Гипотезы
 
-Мы проверили некоторые гипотезы [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/Hypothesis%20(2).ipynb)
-
-А также [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/ML.ipynb), на этапе машинного обучения.
+Мы проверили некоторые гипотезы [здесь](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/Hypothesis%20(2).ipynb)
 
 ### Машинное и глубинное обучение
 
@@ -50,15 +48,8 @@ Cделали очистку данных [здесь](https://github.com/Auruml
 2) Сфера по текстовым признакам (NLP)
 3) Кластеризация
 
-Мы сделали еще одну предобработку и обучили множество моделей для предсказания ЗП (задача регрессии) [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/ML.ipynb) . 
+Мы сделали еще одну предобработку и обучили множество моделей для предсказания ЗП (задача регрессии) [здесь](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/ML.ipynb) . 
 
-Текстовый анализ, и предсказание сферы (задача классификации) мы делаем [тут](https://github.com/Aurumlin/Personal_repository/blob/main/NLP_part.ipynb). 
+Текстовый анализ, и предсказание сферы (задача классификации) мы делаем [тут](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/NLP_part.ipynb). 
 
-Далее [здесь](https://github.com/Aurumlin/Personal_repository/blob/main/кластеризация.ipynb) мы сделали кластеризацию и написали небольшую нейросеть вот [тут](https://github.com/Aurumlin/Personal_repository/blob/main/нейросеть_проект_python_2_ipynb_.ipynb).
-
-
-### Важность проекта:
-
-Данный проект будет полезен как соискателям, желающим понять, на какую зарплату они могут рассчитывать, так и работодателям, стремящимся предложить конкурентоспособные условия для привлечения лучших специалистов. Анализ данных о заработных платах поможет лучше понять динамику рынка и способствует более эффективному планированию карьеры и кадровой политики.
-
-
+Далее [здесь](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/кластеризация.ipynb) мы сделали кластеризацию и написали небольшую нейросеть вот [тут](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/нейросеть_проект_python_2_ipynb_.ipynb).
