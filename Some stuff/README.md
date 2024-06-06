@@ -1,4 +1,4 @@
-# Как мини-проекты здесь есть? 
+# Содержание
 1. [Body movements analysis](https://github.com/jassalm/Resume-Projects/blob/main/Some%20stuff/Body%20movements%20analysis.ipynb)
 Тут анализ готового датасета. Основной фокус сделан на EDA, и даже предпринята попытка предсказать целевую переменную на основе результатов, полученных через EDA
 
