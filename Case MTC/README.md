@@ -17,9 +17,11 @@
 
 ## Решения
 
+Решение кейса доступно [здесь](https://github.com/jassalm/Resume-Projects/blob/main/Case%20MTC/Keйс_МТС_Салман_Ясмина.ipynb)
+
 Для анализа были выбраны песни (ссылки на файлы с текстом песен доступны в репозитарии)
 - Imagine Dragons [Birds](https://github.com/jassalm/Resume-Projects/blob/main/Case%20MTC/Birds%20(1).txt)
 - Dontan [Numb](https://github.com/jassalm/Resume-Projects/blob/main/Case%20MTC/Numb_Dotan%20(1).txt)
 - Lorde [Royals](https://github.com/jassalm/Resume-Projects/blob/main/Case%20MTC/Royals%20(1).txt)
 
-Самое решение кейса доступно [здесь](https://github.com/jassalm/Resume-Projects/blob/main/Case%20MTC/Keйс_МТС_Салман_Ясмина.ipynb)
+
