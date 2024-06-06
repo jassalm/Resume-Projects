@@ -9,7 +9,7 @@
 
 > Сбор данных о вакансиях с сайта [hh.ru](https://hh.ru/) для data-related специальностей (data scientist, data analyst, data engineer и т.д.) и программистов (backend, frontend, fullstack, mobile development и т.д.).
 
-Сначала мы [спарсили ссылки на вакансии с API hh.ru](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/API%20parsing.ipynb). Данные сложили в [файл](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/Parsed%20data/from_api.xls). Внутри - названия, некоторые даные и ссылки на страницы вакансий. 
+Сначала мы спарсили ссылки на вакансии с API hh.ru [здесь](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/API%20parsing.ipynb). Данные сложили в [файл](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/Parsed%20data/from_api.xls). Внутри - названия, некоторые даные и ссылки на страницы вакансий. 
 
 Далее мы проитерировались по ссылкам и достали больше данных с страниц, вот наш [парсер](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/Parser.ipynb). Данные сохранили в [файлик](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/Parsed%20data/for_cleaning2.xls).
 
