@@ -51,5 +51,3 @@ Cделали очистку данных [здесь](https://github.com/jassal
 Мы сделали еще одну предобработку и обучили множество моделей для предсказания ЗП (задача регрессии) [здесь](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/ML.ipynb) . 
 
 Текстовый анализ, и предсказание сферы (задача классификации) мы делаем [тут](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/NLP_part.ipynb). 
-
-Далее [здесь](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/кластеризация.ipynb) мы сделали кластеризацию и написали небольшую нейросеть вот [тут](https://github.com/jassalm/Resume-Projects/blob/main/Project%20hh.ru/нейросеть_проект_python_2_ipynb_.ipynb).
