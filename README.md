@@ -6,7 +6,8 @@
 А тут вы можете ознакомиться с условиями и решениями кейса, который я успешно выполнила в рамках школы MТС. Описание кейса и навигация по папке доступны в [README.md](https://github.com/jassalm/Resume-Projects/tree/main/Case%20MTC) данного проекта.
 
 ## [Поверхность](https://github.com/jassalm/Resume-Projects/tree/main/Поверхность)
-Часть материалов, подготовленных в рамках проекта "Построение поверхности волатильности)
+Часть материалов, подготовленных в рамках проекта "Построение поверхности волатильности".
+
 [README.md](https://github.com/jassalm/Resume-Projects/blob/main/Поверхность/README.md) проекта.
 
 ## [Эконометрика](https://github.com/jassalm/Resume-Projects/tree/main/Эконометрика)
