@@ -23,8 +23,12 @@
 ## [Машинное обучение](https://github.com/jassalm/Resume-Projects/tree/main/Машинное%20обучение)
 Некоторые ДЗ в рамках курсов МО-1 и МО-2 от ФКН НИУ ВШЭ. Краткое описание заданий в [README.md](https://github.com/jassalm/Resume-Projects/blob/main/Машинное%20обучение/README.md)
 
+## [Основы матричных вычислений](https://github.com/jassalm/Resume-Projects/blob/main/Основы%20матричных%20вычислений/Salman_Iasmina_PDZ-1_6_Ekonom.ipynb)
+Прикладные домашние задания по курсу Основы матричных вычислений. 
+
 
 ## [Some-stuff](https://github.com/jassalm/Resume-Projects/tree/main/Some%20stuff)
 Здесь вы найдете некоторые из первых учебных проектов, которые я делала в рамках майнора ИАД в Высшей Школе Экономики, либо в рамках дисциплины Основы статистических наблюдений. Подробнее по навигации в данной папке можете ознакомиться [здесь](https://github.com/jassalm/Resume-Projects/blob/main/Some%20stuff/README.md)
+
 
 
