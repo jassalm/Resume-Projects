@@ -24,7 +24,7 @@
 Некоторые ДЗ в рамках курсов МО-1 и МО-2 от ФКН НИУ ВШЭ. Краткое описание заданий в [README.md](https://github.com/jassalm/Resume-Projects/blob/main/Машинное%20обучение/README.md)
 
 ## [Основы матричных вычислений](https://github.com/jassalm/Resume-Projects/blob/main/Основы%20матричных%20вычислений/Salman_Iasmina_PDZ-1_6_Ekonom.ipynb)
-Некоторые прикладные домашние задания по курсу Основы матричных вычислений: разделение фона и движущихся объектов на видео и построение рекомендательной модели.
+Некоторые прикладные домашние задания по курсу Основы матричных вычислений: разделение фона и движущихся объектов на видео и построение рекомендательной модели. Подробнее в [README.md](https://github.com/jassalm/Resume-Projects/blob/main/Основы%20матричных%20вычислений/README.md)
 
 
 ## [Some-stuff](https://github.com/jassalm/Resume-Projects/tree/main/Some%20stuff)
